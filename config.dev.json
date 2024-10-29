@@ -1,6 +1,6 @@
 {
 	"facebookAccount": {
-		"email"fridolintshiyaz3101@gmail.com",
+		"email"fridolintshiyaz3101@gmail.com"
 		"password": "Fridolin099920774",
 		"2FASecret": "",
 		"i_user": "",
@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "🌟✨ ITACHI 🌟✨ALL🌟✨BOT✨🌟💫",
+	"nickNameBot": "🌟✨ITACHI 🌟✨ALL🌟✨BOT✨🌟💫",
 	"prefix": "€",
 	"adminOnly": {
 		"enable": false,
